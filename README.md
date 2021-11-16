@@ -1,7 +1,7 @@
 # IMDB_Rating_Prediction
 
-•	Developed a regression model to predict the Yelp rating of businesses while identifying variables most indicative of firms’ success
+•	Developed a regression model to predict the IMDB rating of films while identifying variables most indicative of films’ success
 
-•	Attaiend a mean square error of 0.86 and presented reccomendations to business owners on how to increase their ratings 
+•	Attaiend a mean square error of 0.69 and presented reccomendations to movie directors on how to increase their ratings 
 
 •	Tools used: R, ggplot2
