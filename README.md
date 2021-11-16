@@ -1,6 +1,7 @@
 # IMDB_Rating_Prediction
-•	Built a machine learning model to predict whether the opponents of the Pittsburgh Steelers would run or pass during each play
 
-•	Achieved a prediction accuracy of 70.9% in which 647 out of 913 plays were predicted correctly for the 2018 NFL season
+•	Developed a regression model to predict the Yelp rating of businesses while identifying variables most indicative of firms’ success
 
-•	Tools and Algorithms used; R, ggplot2, Principal Component Analysis, Random Forest, Gradient Boosting
+•	Attaiend a mean square error of 0.86 and presented reccomendations to business owners on how to increase their ratings 
+
+•	Tools used: R
